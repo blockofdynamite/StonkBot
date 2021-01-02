@@ -3,7 +3,7 @@ An IRC bot with stock market functionality.
 
 Usage:
 
-!stock [query]
+!stock [query]</br>
 !stock [query1] [query2] ... [queryN]
 
 TODO
