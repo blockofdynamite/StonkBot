@@ -1,18 +1,19 @@
 # StonkBot
 An IRC bot with stock market functionality.
 
-<h3>Usage:
+<h3>Usage:</h3>
 
-!stock [query]</br>
+!stock [query]
+
 !stock [query1] [query2] ... [queryN]
 
-<h3>TODO
+<h3>TODO</h3>
 
 !stonk
 
 Further strip formatting from messages (italics) (it already strips all other formatting)
 
-<h3>Example Responses
+<h3>Example Responses</h3>
 
 Lookup: \<StonkBot\> AMD: Advanced Micro Devices Inc. $32.41 (▲ +1.85%) | S: Sprint Corporation $7.10 (▲ +1.72%)
   
